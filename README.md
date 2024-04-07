@@ -1,1 +1,3 @@
-# gamejam-summer2024
+# Moved!~
+
+Moved to: https://github.com/ccsf-cs-club/spring2024-clicker-game
